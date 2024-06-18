@@ -10,14 +10,9 @@ Links:
 https://www.reddit.com/r/delhi/comments/1akdbxx/the_best_chhole_bhature_in_delhi/
 
 Breakfast:
-<<<<<<< HEAD
  - Saravana Bhavan near New Delhi Railway Station
-OR
  - Haldiram's in Chandni Chowk / Karol Bagh / Connaught place : Chhole Bhature or Raj Kachori
-=======
- - Haldiram's in Karol Bagh or Connaught place
  - Gopal Ji Chhole Bhature, flat no 148, Pocket 7, Sector 2, Rohini, Delhi (May be tricky by metro)
->>>>>>> 5857c88cc4bb93276bcc42d71fd42533f214ecdc
 
 Lunch:
 - Gulati: Buffet if available
